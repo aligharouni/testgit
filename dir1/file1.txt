@@ -1,2 +1,4 @@
 Hello
 second line added.
+Here is the 3rd line from the new_features branch.
+
